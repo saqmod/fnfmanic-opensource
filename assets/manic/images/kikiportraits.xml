@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="kikiportraits.png">
+<SubTexture name="kikinormal.png" x="0" y="0" width="1160" height="1254" frameX="0" frameY="0" frameWidth="1160" frameHeight="1254" />
+<SubTexture name="kikicurious.png" x="1160" y="0" width="1160" height="1254" frameX="0" frameY="0" frameWidth="1160" frameHeight="1254" />
+<SubTexture name="kikismile.png" x="2320" y="0" width="1160" height="1254" frameX="0" frameY="0" frameWidth="1160" frameHeight="1254" />
+<SubTexture name="kikihappy.png" x="3480" y="0" width="1160" height="1254" frameX="0" frameY="0" frameWidth="1160" frameHeight="1254" />
+</TextureAtlas>

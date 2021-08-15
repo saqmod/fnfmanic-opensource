@@ -1,0 +1,7 @@
+:kiki:normal:AND what is your name?
+:bf:happy:Beep!
+:kiki:curious:....Beep?
+:kiki:happy:You earthlings sure are strange...
+:kiki:smile:Anyways! I have karaoke with friends tonight. Wanna help me practice?
+:bf:smile:Beep bop!
+:kiki:happy:Great!
